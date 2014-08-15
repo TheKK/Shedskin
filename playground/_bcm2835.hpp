@@ -5,7 +5,7 @@ namespace __libbcm2835__ {
 	namespace ___bcm2835__ {
 		extern "C"
 		{
-			#include "/home/kk/myPrograms/python/summer/bcm2835-1.36/src/bcm2835.c"
+			#include "/home/kk/myPrograms/python/summer/bcm2835-1.36/src/bcm2835.h"
 		}
 	}
 }
